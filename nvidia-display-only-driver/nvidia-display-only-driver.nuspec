@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>nvidia-display-only-driver</id>
-    <version>512.95</version>
+    <version>516.40</version>
     <packageSourceUrl>https://github.com/lostmsu/chocopkgs/tree/master/nvidia-display-only-driver</packageSourceUrl>
     <owners>Victor Nova</owners>
     <title>NVidia Display Driver</title>
@@ -23,7 +23,7 @@
 If you need support for non display related components (Shield, Geforce Experience, ...), install the unaltered `geforce-game-ready-driver` instead.
 
     </description>
-    <releaseNotes>https://us.download.nvidia.com/Windows/512.95/512.95-win11-win10-win8-win7-release-notes.pdf</releaseNotes>
+    <releaseNotes>https://us.download.nvidia.com/Windows/516.40/516.40-win11-win10-win8-win7-release-notes.pdf</releaseNotes>
     <dependencies>
         <dependency id="chocolatey-core.extension" version="1.1.0" />
     </dependencies>
